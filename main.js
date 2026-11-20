@@ -9,4 +9,4 @@ document.getElementById("alert").innerHTML = "This is a simple alert message";
 
 document.getElementById("alert").innerHTML = "hello world kaspar";
 
-document.getElementById("alert").style.color="red";
+document.getElementById("alert").style.color="blue";
