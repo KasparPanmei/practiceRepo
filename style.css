@@ -5,8 +5,6 @@
     box-sizing: border-box;
 }
 
-#test1 {
-    color: red;
-    font-size: 20px;
-    font-weight: bold;
+#test2{
+    color: blue;
 }
