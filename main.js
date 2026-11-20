@@ -7,4 +7,4 @@ document.getElementById("test5").innerHTML = "This is updated from main.js file 
 
 document.getElementById("alert").innerHTML = "This is a simple alert message";
 
-document.getElementById("alert").innerHTML = "hello world";
+document.getElementById("alert").innerHTML = "hello world kaspar";
